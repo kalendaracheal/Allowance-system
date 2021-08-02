@@ -1,0 +1,11 @@
+C:\Clinic master\cil-allowance-management-system\Front-end\cil-allowance-management-system\bin\Debug\CIL Allowance Management System.exe.config
+C:\Clinic master\cil-allowance-management-system\Front-end\cil-allowance-management-system\bin\Debug\CIL Allowance Management System.exe
+C:\Clinic master\cil-allowance-management-system\Front-end\cil-allowance-management-system\bin\Debug\CIL Allowance Management System.pdb
+C:\Clinic master\cil-allowance-management-system\Front-end\cil-allowance-management-system\obj\Debug\CIL Allowance Management System.csproj.AssemblyReference.cache
+C:\Clinic master\cil-allowance-management-system\Front-end\cil-allowance-management-system\obj\Debug\CIL_Allowance_Management_System.Admin_Users_Registration.resources
+C:\Clinic master\cil-allowance-management-system\Front-end\cil-allowance-management-system\obj\Debug\CIL_Allowance_Management_System.Login.resources
+C:\Clinic master\cil-allowance-management-system\Front-end\cil-allowance-management-system\obj\Debug\CIL_Allowance_Management_System.Properties.Resources.resources
+C:\Clinic master\cil-allowance-management-system\Front-end\cil-allowance-management-system\obj\Debug\CIL Allowance Management System.csproj.GenerateResource.cache
+C:\Clinic master\cil-allowance-management-system\Front-end\cil-allowance-management-system\obj\Debug\CIL Allowance Management System.csproj.CoreCompileInputs.cache
+C:\Clinic master\cil-allowance-management-system\Front-end\cil-allowance-management-system\obj\Debug\CIL Allowance Management System.exe
+C:\Clinic master\cil-allowance-management-system\Front-end\cil-allowance-management-system\obj\Debug\CIL Allowance Management System.pdb
